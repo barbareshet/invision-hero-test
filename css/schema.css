@@ -1,0 +1,17 @@
+#html-code pre{
+    text-align: left;
+    word-break: normal;
+    white-space: pre-line;
+}
+.itemscope,
+.itemtype,
+.itemprop{
+    font-size:18px;
+    font-weight: bold;
+}
+.itemscope:hover,
+.itemtype:hover,
+.itemprop:hover{
+    color:seagreen;
+    background: #fff;
+}
